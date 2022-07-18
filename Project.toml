@@ -1,0 +1,14 @@
+name = "Streak"
+uuid = "311aadc4-fafa-42a2-9ad3-ba45664f3fdc"
+authors = ["TRABAJO "]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+JSONTables = "b9914132-a727-11e9-1322-f18e41205b0b"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
